@@ -13,35 +13,35 @@
             background-color: #f8f9fa;
         }
 
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
 
-        h1 {
-            text-align: center;
-            color: #333;
-        }
+h1 {
+    text-align: center;
+    color: #333;
+}
 
-        ol {
-            list-style-type: none;
-            padding: 0;
-        }
+ol {
+    list-style-type: none;
+    padding: 0;
+}
 
-        ol li {
-            margin-bottom: 10px;
-        }
+ol li {
+    margin-bottom: 10px;
+}
 
-        pre {
-            background-color: #f7f7f7;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
+pre {
+    background-color: #f7f7f7;
+    padding: 10px;
+    border-radius: 5px;
+}
+</style>
 </head>
 
 <body>
